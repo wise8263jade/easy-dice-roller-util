@@ -1,2 +1,9 @@
-# easy-dice-roller-util
-A simple dice roller project
+# Dice Roller
+
+A simple dice roller project.
+\n
+## Getting Started
+
+```bash
+python main.py
+```
